@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cycle="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.canyuns.cycle.DetailsActivity" >
+
+    <item   android:id="@+id/map"
+            android:icon="@drawable/map"
+            android:title="@string/action_map"
+            cycle:showAsAction="ifRoom"/>
+
+</menu>

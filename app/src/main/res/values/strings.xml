@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">骑行路线</string>
+    <string name="details">路线攻略</string>
+    <string name="hz">杭州</string>
+    <string name="sx">绍兴</string>
+    <string name="nb">宁波</string>
+    <string name="action_settings">设置</string>
+    <string name="action_map">地图</string>
+</resources>

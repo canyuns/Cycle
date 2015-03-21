@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent"  
+    android:layout_height="fill_parent"  
+    android:orientation="horizontal" >  
+  
+  <ImageView  
+        android:id="@+id/animal"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"  
+        android:layout_centerVertical="true"  
+        android:layout_margin="5dp" />
+  
+  <LinearLayout  
+        android:layout_height="fill_parent"  
+        android:layout_width="wrap_content"  
+        android:layout_marginLeft="0dp"
+        android:layout_toRightOf="@id/animal"  
+        android:layout_centerVertical="true"
+        android:orientation="vertical" >
+
+        <TextView  
+            android:id="@+id/cn_word"  
+            android:layout_width="wrap_content"  
+            android:layout_height="wrap_content"  
+            android:layout_gravity="center"  
+            android:textColor="#191970"
+            android:textSize="20sp" />
+  </LinearLayout>
+      
+</RelativeLayout>  
