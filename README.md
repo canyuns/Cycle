@@ -8,12 +8,12 @@
 图示
 ---
 
-* 主界面
+### App主界面
 ![image](app/src/main/res/raw/screenshots/01.png)
 
-* 骑行路线介绍
+### 骑行路线介绍
 ![image](app/src/main/res/raw/screenshots/02.png)
 
-* 骑行路线定位与导航
+### 骑行路线定位与导航
 ![image](app/src/main/res/raw/screenshots/03.png)
 
