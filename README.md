@@ -1,8 +1,8 @@
-¡¸ÆïĞĞÂ·Ïß¡¹Ïµ±¾ÈËÒµÓàÊ±¼ä¿ª·¢£¬½ö×öÓéÀÖÖ®ÓÃ£¬ÈçÓĞÇÖÈ¨£¬ÇëÁªÏµÎÒ Email:qixingluxian@163.com
+ã€Œéª‘è¡Œè·¯çº¿ã€ç³»æœ¬äººä¸šä½™æ—¶é—´å¼€å‘ï¼Œä»…åšå¨±ä¹ä¹‹ç”¨ï¼Œå¦‚æœ‰ä¾µæƒï¼Œè¯·è”ç³»æˆ‘ Email:qixingluxian@163.com
 
-Â·Ïß³ö×ÔÆïÓÑÍø http://www.51bike.com/portal.php?mod=view&amp;aid=2775&amp;page=1
+è·¯çº¿å‡ºè‡ªéª‘å‹ç½‘ http://www.51bike.com/portal.php?mod=view&amp;aid=2775&amp;page=1
 
-![image](https://github.com/canyuns/Cycle/tree/master/app/src/main/res/raw/screenshots/01.png)
-![image](https://github.com/canyuns/Cycle/tree/master/app/src/main/res/raw/screenshots/02.png)
-![image](https://github.com/canyuns/Cycle/tree/master/app/src/main/res/raw/screenshots/03.png)
+![image](app/src/main/res/raw/screenshots/01.png)
+![image](app/src/main/res/raw/screenshots/02.png)
+![image](app/src/main/res/raw/screenshots/03.png)
 
